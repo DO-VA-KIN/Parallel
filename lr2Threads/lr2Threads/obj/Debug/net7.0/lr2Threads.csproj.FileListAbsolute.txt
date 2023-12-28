@@ -1,0 +1,15 @@
+B:\Projects\lr2Threads\lr2Threads\bin\Debug\net7.0\lr2Threads.exe
+B:\Projects\lr2Threads\lr2Threads\bin\Debug\net7.0\lr2Threads.deps.json
+B:\Projects\lr2Threads\lr2Threads\bin\Debug\net7.0\lr2Threads.runtimeconfig.json
+B:\Projects\lr2Threads\lr2Threads\bin\Debug\net7.0\lr2Threads.dll
+B:\Projects\lr2Threads\lr2Threads\bin\Debug\net7.0\lr2Threads.pdb
+B:\Projects\lr2Threads\lr2Threads\obj\Debug\net7.0\lr2Threads.csproj.AssemblyReference.cache
+B:\Projects\lr2Threads\lr2Threads\obj\Debug\net7.0\lr2Threads.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\lr2Threads\lr2Threads\obj\Debug\net7.0\lr2Threads.AssemblyInfoInputs.cache
+B:\Projects\lr2Threads\lr2Threads\obj\Debug\net7.0\lr2Threads.AssemblyInfo.cs
+B:\Projects\lr2Threads\lr2Threads\obj\Debug\net7.0\lr2Threads.csproj.CoreCompileInputs.cache
+B:\Projects\lr2Threads\lr2Threads\obj\Debug\net7.0\lr2Threads.dll
+B:\Projects\lr2Threads\lr2Threads\obj\Debug\net7.0\refint\lr2Threads.dll
+B:\Projects\lr2Threads\lr2Threads\obj\Debug\net7.0\lr2Threads.pdb
+B:\Projects\lr2Threads\lr2Threads\obj\Debug\net7.0\lr2Threads.genruntimeconfig.cache
+B:\Projects\lr2Threads\lr2Threads\obj\Debug\net7.0\ref\lr2Threads.dll

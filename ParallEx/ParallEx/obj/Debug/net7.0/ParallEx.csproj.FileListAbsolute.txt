@@ -1,0 +1,15 @@
+B:\Projects\ParallEx\ParallEx\bin\Debug\net7.0\ParallEx.exe
+B:\Projects\ParallEx\ParallEx\bin\Debug\net7.0\ParallEx.deps.json
+B:\Projects\ParallEx\ParallEx\bin\Debug\net7.0\ParallEx.runtimeconfig.json
+B:\Projects\ParallEx\ParallEx\bin\Debug\net7.0\ParallEx.dll
+B:\Projects\ParallEx\ParallEx\bin\Debug\net7.0\ParallEx.pdb
+B:\Projects\ParallEx\ParallEx\obj\Debug\net7.0\ParallEx.csproj.AssemblyReference.cache
+B:\Projects\ParallEx\ParallEx\obj\Debug\net7.0\ParallEx.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\ParallEx\ParallEx\obj\Debug\net7.0\ParallEx.AssemblyInfoInputs.cache
+B:\Projects\ParallEx\ParallEx\obj\Debug\net7.0\ParallEx.AssemblyInfo.cs
+B:\Projects\ParallEx\ParallEx\obj\Debug\net7.0\ParallEx.csproj.CoreCompileInputs.cache
+B:\Projects\ParallEx\ParallEx\obj\Debug\net7.0\ParallEx.dll
+B:\Projects\ParallEx\ParallEx\obj\Debug\net7.0\refint\ParallEx.dll
+B:\Projects\ParallEx\ParallEx\obj\Debug\net7.0\ParallEx.pdb
+B:\Projects\ParallEx\ParallEx\obj\Debug\net7.0\ParallEx.genruntimeconfig.cache
+B:\Projects\ParallEx\ParallEx\obj\Debug\net7.0\ref\ParallEx.dll
